@@ -8,7 +8,7 @@ Steps Involved
 
 2.Data Preprocessing
 
-3.Fitting the data into training And testing
+3.Fitting The Data Into Training And Testing
 
 4.Implementation Of Logistic Regression
 
