@@ -4,12 +4,12 @@ Prediction Of Sonar Rock and Mine using Logistic Regression
 
 Steps Involved 
 
-- Data Loading
+1.Data Loading
 
--Data Preprocessing
+2.Data Preprocessing
 
--Fitting the data into training And testing
+3.Fitting the data into training And testing
 
-- Implementation Of Logistic Regression
+4.Implementation Of Logistic Regression
 
--Data valuation
+5.Data valuation
